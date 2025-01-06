@@ -21,8 +21,8 @@
 ## 📈 Current Stats
 
 <a href="https://github.com/muhammadahmadazam/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadahmadazam&theme=react" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadahmadazam&theme=react&card_width=280" />
 </a>
 <a href="https://github.com/muhammadahmadazam/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadahmadazam&layout=compact&langs_count=8&card_width=320&theme=react" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadahmadazam&layout=compact&langs_count=8&card_width=280&theme=react" />
 </a>
