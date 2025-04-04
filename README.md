@@ -5,7 +5,7 @@
 
 - Code❗ Debug❗ Repeat❗ 
 
-- 🔭 I’m currently working on [Fastrack | Pakistan's First AI Talent Search Engine](https://fastrack.cosmosys.co)
+- 🔭 I have worked at [Fastrack | Pakistan's First AI Talent Search Engine](https://fastrack.cosmosys.co)
 
 - 🌱 I’m currently learning **Ansible and Terraform**
 
